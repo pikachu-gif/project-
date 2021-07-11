@@ -1,1 +1,1 @@
-project- An app for management using c language 
+project- Diary Management system 
