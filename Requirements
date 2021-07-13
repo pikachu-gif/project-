@@ -1,1 +1,7 @@
-
+The concepts used in this project are file handling, structures, pointer and functions.
+The basic userdefined functions used in this project  are :
+  Password- contains/manages/handles password protection
+  Addrecord- to add new diary record
+  Viewrecord- to view added record in list
+  Editrecord- to modify and update an added record
+  Deleterecord- to delete or remove a record permanently from system file 
