@@ -16,7 +16,7 @@
             ]
         },
         {
-            "name": "\"header.h",
+            "name": "header.h",
             "includePath": [
                 "${workspaceFolder}/**"
             ],
