@@ -61,7 +61,7 @@
   
          printf ( "\n\tENTER TIME:[hh:mm]:"); 
   
-         scanf("%9s",time); 
+         scanf("%s",&time); 
   
          rewind(fp); 
   
