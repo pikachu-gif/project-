@@ -7,7 +7,7 @@
   
      FILE *fp ; 
   
-     char another = 'Y' ,time[10]; 
+     char another = 'Y' ,time[6]; 
   
      struct record e ; 
   
